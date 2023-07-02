@@ -1,0 +1,20 @@
+;2023-04-27;2023-07-02;FILTRES:
+ProjecteGran;Client;Projecte;Tasca;Treballador
+TFG;Client1cambiodenombrepruebanombrelargo;"Projecte info";Tasca10new;Helena;;3h
+;Client1cambiodenombrepruebanombrelargo;;;Info;;2h
+;Client1cambiodenombrepruebanombrelargo;"Projecte info";Tasca10new;Dani;;4h;"TOTAL tascaTasca10new";9h
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Projecte info";;19.5h
+;Client1cambiodenombrepruebanombrelargo
+;Client1cambiodenombrepruebanombrelargo;"Projecte info";"Tasca 11";Info;;2h;"TOTAL tascaTasca 11";2h
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Projecte info";;19.5h
+;Client1cambiodenombrepruebanombrelargo
+;Client1cambiodenombrepruebanombrelargo;"Projecte info";Tasca2;Info;;1h;"TOTAL tascaTasca2";1h
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Projecte info";;19.5h
+;Client1cambiodenombrepruebanombrelargo
+;Client1cambiodenombrepruebanombrelargo;"Projecte info";Tasca10;Info;;2h;"TOTAL tascaTasca10";2h
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Projecte info";;19.5h
+;Client1cambiodenombrepruebanombrelargo
+;Client1cambiodenombrepruebanombrelargo;"Projecte informe 2";"Tasca 1";Helena;;4h;"TOTAL tascaTasca 1";4h
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Projecte informe 2";;4h
+;Client1cambiodenombrepruebanombrelargo
+;Client1cambiodenombrepruebanombrelargo;;;"TOTAL Client1cambiodenombrepruebanombrelargo";;23.5h
